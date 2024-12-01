@@ -11,7 +11,7 @@ Given the early stage of the project, we currently only support the latest versi
 
 ## Reporting a Vulnerability
 
-We take the security of Eliza seriously. If you believe you have found a security vulnerability, please report it to us following these steps:
+We take the security of angel seriously. If you believe you have found a security vulnerability, please report it to us following these steps:
 
 ### Private Reporting Process
 
