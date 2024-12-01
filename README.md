@@ -81,3 +81,105 @@ Before using Angel, you need to perform some basic configurations. Follow the st
 
    ```bash
    node --loader ts-node/esm src/index.ts --characters="path/to/your/character.json"
+pnpm i
+pnpm start
+
+Customizing Angel
+Angel supports flexible custom operations. You can configure behaviors, select different large models, and optimize your Agent experience according to your needs.
+
+Adding Custom Behaviors
+To avoid conflicts with the core directory's Git, it's recommended to add custom operations to the custom_actions directory and configure them in the angelConfig.yaml file. You can refer to the example in angelConfig.example.yaml.
+
+Configuring Different Large Models
+Llama Configuration
+Set the XAI_MODEL environment variable to meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo or meta-llama/Meta-Llama-3.1-405B-Instruct to run the Llama model.
+
+OpenAI Configuration
+Set the XAI_MODEL environment variable to gpt-4o-mini or gpt-4o to run the OpenAI model.
+
+Other Dependencies
+If you encounter errors when starting, try installing sharp:
+pnpm install --include=optional sharp
+Environment Configuration
+Configure the following environment variables in the .env file to connect various platforms:
+# Required environment variables
+DISCORD_APPLICATION_ID=
+DISCORD_API_TOKEN= # Bot token
+OPENAI_API_KEY=sk-* # OpenAI API key, starting with sk-
+ELEVENLABS_XI_API_KEY= # Elevenlabs API key
+
+# ELEVENLABS Settings
+ELEVENLABS_MODEL_ID=eleven_multilingual_v2
+ELEVENLABS_VOICE_ID=21m00Tcm4TlvDq8ikWAM
+ELEVENLABS_VOICE_STABILITY=0.5
+ELEVENLABS_VOICE_SIMILARITY_BOOST=0.9
+ELEVENLABS_VOICE_STYLE=0.66
+ELEVENLABS_VOICE_USE_SPEAKER_BOOST=false
+ELEVENLABS_OPTIMIZE_STREAMING_LATENCY=4
+ELEVENLABS_OUTPUT_FORMAT=pcm_16000
+
+TWITTER_DRY_RUN=false
+TWITTER_USERNAME= # Twitter account
+TWITTER_PASSWORD= # Twitter password
+TWITTER_EMAIL= # Twitter email
+TWITTER_COOKIES= # Twitter Cookies
+
+X_SERVER_URL=
+XAI_API_KEY=
+XAI_MODEL=
+
+
+# Other API Configurations
+ANTHROPIC_API_KEY=
+
+# EVM Configuration
+EVM_PRIVATE_KEY=EXAMPLE_WALLET_PRIVATE_KEY
+
+# Solana Configuration
+SOLANA_PRIVATE_KEY=EXAMPLE_WALLET_PRIVATE_KEY
+SOLANA_PUBLIC_KEY=EXAMPLE_WALLET_PUBLIC_KEY
+
+# Local Wallet Configuration (deprecated)
+WALLET_PRIVATE_KEY=EXAMPLE_WALLET_PRIVATE_KEY
+WALLET_PUBLIC_KEY=EXAMPLE_WALLET_PUBLIC_KEY
+
+BIRDEYE_API_KEY=
+
+SOL_ADDRESS=So11111111111111111111111111111111111111112
+SLIPPAGE=1
+RPC_URL=https://api.mainnet-beta.solana.com
+HELIUS_API_KEY=
+
+
+## Telegram Configuration
+TELEGRAM_BOT_TOKEN=
+
+TOGETHER_API_KEY=
+Local Configuration
+CUDA Configuration
+If you have a high-performance NVIDIA graphics card, you can accelerate local operations via CUDA:
+pnpm install
+npx --no node-llama-cpp source download --gpu cuda
+Make sure you have installed the complete CUDA toolkit, including cuDNN and cuBLAS.
+
+Running Locally
+Set the XAI_MODEL to one of the aforementioned Llama models. You can leave X_SERVER_URL and XAI_API_KEY empty, and the model will be downloaded from Hugging Face and run locally.
+
+Client Setup
+For setting up a Discord bot, it's recommended to refer to the official Discord documentation.
+
+Development & Testing
+Testing Commands
+Common test commands:
+pnpm test           # Run tests once
+pnpm test:watch    # Run tests in watch mode
+Database-specific test commands:
+pnpm test:sqlite   # Test with SQLite
+pnpm test:sqljs    # Test with SQL.js
+ests are written with Jest and are located in the src/*/.test.ts files. The test environment is configured as follows:
+
+Loads environment variables from .env.test
+Sets a 2-minute timeout for long-running tests
+Supports ESM modules
+Runs tests in sequence (--runInBand)
+To add new tests, add a .test.ts file next to the relevant code.
