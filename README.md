@@ -1,7 +1,7 @@
 # TANis_STAN☠️
 
 <div align="center">
-  <img src="./docs/static/img/angel_banner.jpg" alt="Angel Banner" width="100%" />
+  <img src="./docs/static/img/SATAN.png" alt="SATAN Banner" width="100%" />
 </div>
 
   
