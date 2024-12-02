@@ -1,4 +1,4 @@
-# Dr.angel 🏥
+# TANis_STAN☠️
 
 <div align="center">
   <img src="./docs/static/img/angel_banner.jpg" alt="Angel Banner" width="100%" />
@@ -7,9 +7,8 @@
   
 </div>
 
-# Angel Function Overview
-
-Angel is a repair and optimization-based Agent AI assistant built on the Eliza open-source model, designed to provide optimization solutions for decentralized AI models. It relies on Claude's powerful code review and repair capabilities, along with a self-developed open-source web crawler technology, to assist any Agent in optimizing code and providing a knowledge base for enhancement.
+# TANIS Function Overview
+TANIS is a repair and optimization-based Agent AI assistant built on the Eliza open-source model, designed to provide optimization solutions for decentralized AI models. It relies on Claude's powerful code review and repair capabilities, along with a self-developed open-source web crawler technology, to assist any Agent in optimizing code and providing a knowledge base for enhancement.
 
 ---
 
