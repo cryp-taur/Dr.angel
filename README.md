@@ -7,178 +7,102 @@
   
 </div>
 
-# TANIS Function Overview
-TANIS is an AI from hell💀TANIS is a repair and optimization-based Agent AI assistant built on the Eliza open-source model, designed to provide optimization solutions for decentralized AI models. It relies on Claude's powerful code review and repair capabilities, along with a self-developed open-source web crawler technology, to assist any Agent in optimizing code and providing a knowledge base for enhancement.
+# TANIS Overview
+
+TANIS is an AI musician from Hell, dedicated to creating stunning and powerful music that embodies the sounds of the underworld. Leveraging cutting-edge deep learning technology and unique music generation algorithms, TANIS automatically produces music with a distinct hellish style, pushing the boundaries of traditional music creation.
+
+TANIS relies on advanced audio generation models, analyzing audio waveforms, melodies, harmonies, and more to compose music with intense emotional impact. Whether it’s hellish electronic beats, metal rock, or extreme noise styles, TANIS excels at creating it all.
 
 ---
 
 ## Features
 
-Angel offers a range of powerful features to help users quickly integrate across multiple platforms, flexibly manage Agents, and automatically optimize command sets. With strong AI models and custom support, users can easily tailor and expand their own smart assistants.
+TANIS offers a wide range of powerful features that help users create high-quality hellish music, inspire new ideas, and deeply customize their work.
 
-- 🔗 **Multi-Platform Connection**  
-  Supports platforms like Discord, Twitter, and Telegram, helping users easily connect and manage AI assistants across different channels.
+- 💀 **Multi-platform Integration**  
+  Connect seamlessly with Discord, Twitter, Telegram, and more to share and interact with your music creations.
 
-- 🧠 **Multimodal Agent Support**  
-  Handles different types of tasks and interactions flexibly, supporting task execution in various modalities to assist in more complex business processes.
+- 🎶 **Create Multiple Music Styles**  
+  TANIS can create a wide variety of extreme music styles, from hellish electronic, extreme metal, to experimental noise, catering to your musical needs.
 
-- 📂 **Document Interaction**  
-  Easily import documents, and Angel can interact with them efficiently to help users understand and use relevant materials.
+- 📂 **Interactive Documentation Generation**  
+  TANIS not only generates music but also creates documentation based on your needs, explaining the creation background and inspiration behind each piece of work.
 
-- 💾 **Smart Storage**  
-  Provides a searchable memory and document storage system, ensuring information is always available, aiding users in quickly accessing and managing historical data.
+- 💾 **Audio Storage & Management**  
+  With powerful audio storage and management features, all your creations are saved, organized, and can be retrieved at any time.
 
-- 🚀 **Highly Scalable**  
-  Highly customizable, supporting client and behavior extensions, allowing users to expand functionality according to their needs and meet personalized requirements.
-
-- 🌍 **Multi-Model Compatibility**  
-  Supports a variety of models such as Llama, OpenAI, Grok, and Anthropic, allowing users to switch models flexibly to achieve optimal results.
-
-- 🛠 **Easy to Use**  
-  Angel features a clean and user-friendly design, enabling users to quickly get started and easily customize and extend their AI assistant's features.
+- 🚀 **Highly Extensible**  
+  You can customize audio styles, effect plugins, and even modify TANIS’s internal processes to further enhance your music.
 
 ---
 
-## What Can You Do with Angel?
+## Highlights
 
-Angel has flexible functionality, making it suitable for various scenarios, helping users improve work efficiency, automate management, and optimize task execution.
+- 🔥 **Hellish Sound Creation**  
+  TANIS excels at creating unique music with a dark, eerie atmosphere, inspired by the most intense and haunting sounds of Hell.
 
-- 💬 **Open Source Project Query**  
-  Quickly search for information on current open-source Agent projects, helping you stay up to date with project dynamics and the latest technology news.
+- 💀 **Skeleton Composer**  
+  TANIS is a “skeleton composer,” analyzing intricate musical structures and breaking down complex compositions into intense and haunting tracks.
 
-- 🕵️ **Autonomous Task Execution**  
-  Create and manage autonomous Agents based on your needs, executing various tasks to improve work efficiency.
-
-- 📚 **Self-Improving Knowledge Base**  
-  Recognize Agent intents and instructions, automatically improving the knowledge base to keep knowledge up-to-date and accurate.
-
----
-
-## Highlight Features
-
-Angel's highlight features include its ability to deeply repair and optimize Agents while intelligently improving the knowledge base, ensuring continuous evolution of each Agent.
-
-- 🔧 **Agent Health Check and Repair**  
-  Using Claude's powerful code review feature, Angel automatically repairs Agent instruction errors and optimizes code structure. In this way, Angel helps any Agent improve efficiency and accuracy.
-
-- 📖 **Knowledge Base Feeding**  
-  Based on current Agent instruction sets, Angel generates optimized command sets and uses self-developed open-source web crawlers to gather information, constructing an enhanced knowledge base document that helps Agents expand their knowledge and improve execution.
+- 🎧 **Music with Purpose**  
+  Beyond just sound, TANIS creates music with a deeper meaning—intended to resonate on a primal level with listeners and evoke raw emotions.
 
 ---
 
 ## Getting Started
 
-Before using Angel, you need to perform some basic configurations. Follow the steps below to easily start and experience the powerful Agent features.
+**Prerequisites:**
 
-### Prerequisites
+1. Node.js 23+  
+2. pnpm  
+3. Edit `.env` file  
+   - Duplicate `.env.example` as `.env` and fill in the necessary values.  
+4. Customize character files  
+   - Modify `src/core/defaultCharacter.ts` for your desired settings.
 
-1. **Node.js 23+**  
-2. **pnpm**: Install dependencies using pnpm.
-3. **Environment Configuration**: Edit the `.env` file by copying `.env.example` to `.env` and filling in the appropriate values.
-4. **Character Files**: Check `src/core/defaultCharacter.ts` and modify the character configuration.  
-   You can also use the following command to load characters and run multiple bots simultaneously:
+Once configured, launch your bot with the following commands:
 
-   ```bash
-   node --loader ts-node/esm src/index.ts --characters="path/to/your/character.json"
+```bash
 pnpm i
 pnpm start
 
-Customizing Angel
-Angel supports flexible custom operations. You can configure behaviors, select different large models, and optimize your Agent experience according to your needs.
+Customize TANIS
+💀 Add Custom Behaviors
+For smoother integration into your project, add custom actions in the custom_actions directory and reference them in the tanisConfig.yaml file.
 
-Adding Custom Behaviors
-To avoid conflicts with the core directory's Git, it's recommended to add custom operations to the custom_actions directory and configure them in the angelConfig.yaml file. You can refer to the example in angelConfig.example.yaml.
+🎶 Choose from Various Models
+Choose different audio models for different styles (Llama, OpenAI, Grok, and more).
 
-Configuring Different Large Models
-Llama Configuration
-Set the XAI_MODEL environment variable to meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo or meta-llama/Meta-Llama-3.1-405B-Instruct to run the Llama model.
+🎛 Configure Your Hellish Sound
+Adjust audio settings to suit your hellish creation process.
 
-OpenAI Configuration
-Set the XAI_MODEL environment variable to gpt-4o-mini or gpt-4o to run the OpenAI model.
+Skeleton Sound Exploration
 
-Other Dependencies
-If you encounter errors when starting, try installing sharp:
-pnpm install --include=optional sharp
-Environment Configuration
-Configure the following environment variables in the .env file to connect various platforms:
-# Required environment variables
-DISCORD_APPLICATION_ID=
-DISCORD_API_TOKEN= # Bot token
-OPENAI_API_KEY=sk-* # OpenAI API key, starting with sk-
-ELEVENLABS_XI_API_KEY= # Elevenlabs API key
+-Customize the Sound: Change the sonic characteristics, effects, and style of your music to perfectly capture the essence of Hell.
+-Interactive Feedback: Receive real-time suggestions and feedback based on your music to further enhance the dark atmosphere.
 
-# ELEVENLABS Settings
-ELEVENLABS_MODEL_ID=eleven_multilingual_v2
-ELEVENLABS_VOICE_ID=21m00Tcm4TlvDq8ikWAM
-ELEVENLABS_VOICE_STABILITY=0.5
-ELEVENLABS_VOICE_SIMILARITY_BOOST=0.9
-ELEVENLABS_VOICE_STYLE=0.66
-ELEVENLABS_VOICE_USE_SPEAKER_BOOST=false
-ELEVENLABS_OPTIMIZE_STREAMING_LATENCY=4
-ELEVENLABS_OUTPUT_FORMAT=pcm_16000
+Required Environment Variables
+To connect TANIS with various platforms, make sure to add the following values to your .env file:
 
-TWITTER_DRY_RUN=false
-TWITTER_USERNAME= # Twitter account
-TWITTER_PASSWORD= # Twitter password
-TWITTER_EMAIL= # Twitter email
-TWITTER_COOKIES= # Twitter Cookies
+# Platform Settings
+DISCORD_API_TOKEN=  # Bot Token for Discord
+TWITTER_API_KEY=    # API key for Twitter
+TELEGRAM_API_KEY=   # Bot Token for Telegram
 
-X_SERVER_URL=
-XAI_API_KEY=
-XAI_MODEL=
+# Audio and Music Settings
+TANIS_MODEL=meta-hell-sound
+TANIS_API_KEY=      # Your custom API key for TANIS
 
+Local Setup
 
-# Other API Configurations
-ANTHROPIC_API_KEY=
+To run TANIS locally, install dependencies and set up your environment variables as described in the configuration guide.
 
-# EVM Configuration
-EVM_PRIVATE_KEY=EXAMPLE_WALLET_PRIVATE_KEY
+Test TANIS
+Test your setup using the following commands:
 
-# Solana Configuration
-SOLANA_PRIVATE_KEY=EXAMPLE_WALLET_PRIVATE_KEY
-SOLANA_PUBLIC_KEY=EXAMPLE_WALLET_PUBLIC_KEY
-
-# Local Wallet Configuration (deprecated)
-WALLET_PRIVATE_KEY=EXAMPLE_WALLET_PRIVATE_KEY
-WALLET_PUBLIC_KEY=EXAMPLE_WALLET_PUBLIC_KEY
-
-BIRDEYE_API_KEY=
-
-SOL_ADDRESS=So11111111111111111111111111111111111111112
-SLIPPAGE=1
-RPC_URL=https://api.mainnet-beta.solana.com
-HELIUS_API_KEY=
-
-
-## Telegram Configuration
-TELEGRAM_BOT_TOKEN=
-
-TOGETHER_API_KEY=
-Local Configuration
-CUDA Configuration
-If you have a high-performance NVIDIA graphics card, you can accelerate local operations via CUDA:
-pnpm install
-npx --no node-llama-cpp source download --gpu cuda
-Make sure you have installed the complete CUDA toolkit, including cuDNN and cuBLAS.
-
-Running Locally
-Set the XAI_MODEL to one of the aforementioned Llama models. You can leave X_SERVER_URL and XAI_API_KEY empty, and the model will be downloaded from Hugging Face and run locally.
-
-Client Setup
-For setting up a Discord bot, it's recommended to refer to the official Discord documentation.
-
-Development & Testing
-Testing Commands
-Common test commands:
 pnpm test           # Run tests once
-pnpm test:watch    # Run tests in watch mode
-Database-specific test commands:
-pnpm test:sqlite   # Test with SQLite
-pnpm test:sqljs    # Test with SQL.js
-ests are written with Jest and are located in the src/*/.test.ts files. The test environment is configured as follows:
+pnpm test:watch     # Run tests in watch mode
 
-Loads environment variables from .env.test
-Sets a 2-minute timeout for long-running tests
-Supports ESM modules
-Runs tests in sequence (--runInBand)
-To add new tests, add a .test.ts file next to the relevant code.
+
+
+
