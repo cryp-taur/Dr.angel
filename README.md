@@ -1,7 +1,7 @@
-# TANis_STAN☠️
+# PAN.ai🐐
 
 <div align="center">
-  <img src="./docs/static/img/SATAN.png" alt="SATAN Banner" width="100%" />
+  <img src="./docs/static/img/pan.png" alt="pan Banner" width="100%" />
 </div>
 
   
