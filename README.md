@@ -1,5 +1,5 @@
 # PAN.ai🐐
-
+CA:PANzFY8WDjuHqydKk92GnPtP8vTvgJ81bsemDaoiKHu
 <div align="center">
   <img src="./docs/static/img/pan.png" alt="pan Banner" width="100%" />
 </div>
