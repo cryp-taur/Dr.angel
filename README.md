@@ -14,7 +14,7 @@ Harnessing cutting-edge algorithms 🧪 and psychological insights 🧠, PAN.ai 
 
 ---
 <div align="center">
-  <img src="./docs/static/img/Embrace the Panic, Seize the Opportunity..png" alt="pan2 Banner" width="100%" />
+  <img src="./docs/static/img/panai.png" alt="pan2 Banner" width="100%" />
 </div>
 ## Features 🛠️
 
