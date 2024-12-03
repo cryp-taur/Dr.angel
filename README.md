@@ -13,7 +13,9 @@ PAN.ai, inspired by the mythological Pan 🐐, is an AI designed to unleash huma
 Harnessing cutting-edge algorithms 🧪 and psychological insights 🧠, PAN.ai is your wicked guide to navigating the volatile world of crypto. Whether you're chasing profits 🤑 or mastering market manipulation 🎭, PAN.ai will light your path through the fire 🔥 of greed and chaos.
 
 ---
-
+<div align="center">
+  <img src="./docs/static/img/Embrace the Panic, Seize the Opportunity..png" alt="pan2 Banner" width="100%" />
+</div>
 ## Features 🛠️
 
 PAN.ai offers a wide array of features to help users dive deep into the darker side of trading 🕶️ while gaining an edge over the competition 💪:
