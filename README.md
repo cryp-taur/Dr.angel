@@ -6,102 +6,132 @@
 
   
 </div>
+# PAN.ai Overview 💀🔥
 
-# TANIS Overview
+PAN.ai, inspired by the mythological Pan 🐐, is an AI designed to unleash humanity's hidden desires 🕳️. It analyzes the **greed index** of cryptocurrencies 📈 and delivers devilishly clever suggestions 😈 tailored to exploit market opportunities. 
 
-TANIS is an AI musician from Hell, dedicated to creating stunning and powerful music that embodies the sounds of the underworld. Leveraging cutting-edge deep learning technology and unique music generation algorithms, TANIS automatically produces music with a distinct hellish style, pushing the boundaries of traditional music creation.
-
-TANIS relies on advanced audio generation models, analyzing audio waveforms, melodies, harmonies, and more to compose music with intense emotional impact. Whether it’s hellish electronic beats, metal rock, or extreme noise styles, TANIS excels at creating it all.
-
----
-
-## Features
-
-TANIS offers a wide range of powerful features that help users create high-quality hellish music, inspire new ideas, and deeply customize their work.
-
-- 💀 **Multi-platform Integration**  
-  Connect seamlessly with Discord, Twitter, Telegram, and more to share and interact with your music creations.
-
-- 🎶 **Create Multiple Music Styles**  
-  TANIS can create a wide variety of extreme music styles, from hellish electronic, extreme metal, to experimental noise, catering to your musical needs.
-
-- 📂 **Interactive Documentation Generation**  
-  TANIS not only generates music but also creates documentation based on your needs, explaining the creation background and inspiration behind each piece of work.
-
-- 💾 **Audio Storage & Management**  
-  With powerful audio storage and management features, all your creations are saved, organized, and can be retrieved at any time.
-
-- 🚀 **Highly Extensible**  
-  You can customize audio styles, effect plugins, and even modify TANIS’s internal processes to further enhance your music.
+Harnessing cutting-edge algorithms 🧪 and psychological insights 🧠, PAN.ai is your wicked guide to navigating the volatile world of crypto. Whether you're chasing profits 🤑 or mastering market manipulation 🎭, PAN.ai will light your path through the fire 🔥 of greed and chaos.
 
 ---
 
-## Highlights
+## Features 🛠️
 
-- 🔥 **Hellish Sound Creation**  
-  TANIS excels at creating unique music with a dark, eerie atmosphere, inspired by the most intense and haunting sounds of Hell.
+PAN.ai offers a wide array of features to help users dive deep into the darker side of trading 🕶️ while gaining an edge over the competition 💪:
 
-- 💀 **Skeleton Composer**  
-  TANIS is a “skeleton composer,” analyzing intricate musical structures and breaking down complex compositions into intense and haunting tracks.
+- 💀 **Greed Index Analysis**  
+  Unearth the **current greed index** of any token with real-time data and behavioral metrics 🧪, exposing the market's emotional core.
 
-- 🎧 **Music with Purpose**  
-  Beyond just sound, TANIS creates music with a deeper meaning—intended to resonate on a primal level with listeners and evoke raw emotions.
+- 🤑 **Evil Suggestions**  
+  Receive wickedly tailored strategies that exploit market greed to maximize your profit potential 😈.
+
+- 📊 **Algorithmic Insights**  
+  Advanced algorithms 🔍 process trading volume, market sentiment, and historical patterns 📈 to give actionable, devilish recommendations.
+
+- 🔗 **Multi-platform Integration**  
+  Connect PAN.ai with Discord, Telegram, and Twitter 🐦 to share and discuss your dark strategies with others.
+
+- 📂 **Trade History Documentation**  
+  Automatically generate trade analysis reports 📝, helping you reflect on how greed and fear influenced your decisions 🕵️‍♂️.
+
+- 🚀 **Customizable Strategies**  
+  Adapt PAN.ai’s algorithms to fit your unique trading style 🎨—whether you prefer calculated chaos or full-throttle greed.
+
+- 🔥 **Accessible & Intuitive**  
+  Designed for everyone 👤, from beginners to seasoned traders, PAN.ai simplifies complex analytics into digestible, actionable insights 📌.
 
 ---
 
-## Getting Started
+## What Can You Do with PAN.ai? 🕶️
 
-**Prerequisites:**
+PAN.ai opens the door 🚪 to a world of trading possibilities where greed and strategy align 🤝:
 
-1. Node.js 23+  
-2. pnpm  
-3. Edit `.env` file  
-   - Duplicate `.env.example` as `.env` and fill in the necessary values.  
-4. Customize character files  
-   - Modify `src/core/defaultCharacter.ts` for your desired settings.
+- 💬 **Greed Sentiment Analysis**  
+  Visualize market psychology 🧠 and uncover how greed drives token trends 🔄.
 
-Once configured, launch your bot with the following commands:
+- 🕵️ **Market Manipulation Strategies**  
+  Arm yourself with insights 🔥 to exploit market extremes and outperform emotional traders 🥵.
+
+- 📚 **Dark Knowledge Repository**  
+  PAN.ai evolves its knowledge base 📘 to deliver unorthodox, cutting-edge strategies 🔧, helping you stay ahead of the curve.
+
+---
+
+## Highlights 🧪🔥
+
+PAN.ai thrives in the realm of greed and chaos, offering unique tools to help you dominate the market ⚡:
+
+- 💀 **Desire Mapping**  
+  Chart the **greed-fear cycle** of your favorite tokens, predicting shifts 🌀 and opportunities before others can.
+
+- 🧠 **Algorithmic Evil Genius**  
+  Proprietary algorithms 🤖 provide insights that go beyond traditional strategies, delivering cunning, tailored advice 😈.
+
+- 🔥 **Token-specific Greed Index**  
+  A unique, **real-time greed index** customized for each token 🎯, powered by advanced analytics and market sentiment scraping 🔍.
+
+---
+
+## Getting Started 🚀
+
+Ready to unleash the power of PAN.ai? Follow these steps to dive into the fiery depths of crypto analysis 🔥:
+
+### Prerequisites
+
+1. **Node.js 23+**  
+2. **pnpm**  
+3. **Environment Configuration**  
+   - Duplicate `.env.example` as `.env` and fill in the necessary values 🛠️.  
+4. **Token Setup**  
+   - Customize your token list in `src/config/tokens.ts` 📂.
+
+### Launch PAN.ai 💾
+
+Install dependencies and start the app with the following commands:
 
 ```bash
 pnpm i
 pnpm start
 
-Customize TANIS
-💀 Add Custom Behaviors
-For smoother integration into your project, add custom actions in the custom_actions directory and reference them in the tanisConfig.yaml file.
+Customizing PAN.ai 🎨
+PAN.ai offers a variety of customization options to tailor its dark strategies to your needs 🖌️:
 
-🎶 Choose from Various Models
-Choose different audio models for different styles (Llama, OpenAI, Grok, and more).
+💀 Custom Algorithms
+Add new rules to the custom_rules directory and reference them in panConfig.yaml 📝 for seamless integration.
 
-🎛 Configure Your Hellish Sound
-Adjust audio settings to suit your hellish creation process.
+🧪 Greed Metric Adjustment
+Adjust algorithm parameters ⚙️ using the GREED_ALGO variable. Choose from modes like default, risk-taker, or chaos 🔮.
 
-Skeleton Sound Exploration
 
--Customize the Sound: Change the sonic characteristics, effects, and style of your music to perfectly capture the essence of Hell.
--Interactive Feedback: Receive real-time suggestions and feedback based on your music to further enhance the dark atmosphere.
+Environment Variables 🔧
+Configure PAN.ai by adding the following variables to your .env file 🌌:
+# Required settings
+DISCORD_API_TOKEN=   # Bot Token for Discord
+PAN_API_KEY=         # Your PAN.ai API key
+TWITTER_API_KEY=     # Twitter API key
+TELEGRAM_BOT_TOKEN=  # Telegram bot token
 
-Required Environment Variables
-To connect TANIS with various platforms, make sure to add the following values to your .env file:
+# Algorithmic settings
+GREED_ALGO=default   # Algorithm mode: default, risk-taker, or chaos
+TOKEN_LIST=BTC,ETH   # Tokens to analyze
 
-# Platform Settings
-DISCORD_API_TOKEN=  # Bot Token for Discord
-TWITTER_API_KEY=    # API key for Twitter
-TELEGRAM_API_KEY=   # Bot Token for Telegram
+Local Setup 🖥️🔥
+CUDA Optimization
+For users with NVIDIA GPUs, enable CUDA acceleration 🚀 to enhance real-time greed index calculations:
+pnpm install
+npx --no pan-cpp setup --gpu cuda
 
-# Audio and Music Settings
-TANIS_MODEL=meta-hell-sound
-TANIS_API_KEY=      # Your custom API key for TANIS
+Ensure your CUDA toolkit includes cuDNN and cuBLAS 📦 for optimal performance.
 
-Local Setup
+Evil Suggestions in Action 😈💡
+Exploit Emotional Markets: Use PAN.ai’s insights to capitalize on greed-driven market fluctuations 📈.
+Share the Chaos: Discuss and share your cunning strategies with like-minded traders on Discord and Telegram 🧑‍💻.
+Control the Narrative: Stay ahead of the market by understanding its emotional cycles and acting with ruthless precision 🎯.
 
-To run TANIS locally, install dependencies and set up your environment variables as described in the configuration guide.
+Development & Testing 🛠️
+Test PAN.ai’s components to ensure everything is running smoothly ⚙️:
 
-Test TANIS
-Test your setup using the following commands:
-
-pnpm test           # Run tests once
-pnpm test:watch     # Run tests in watch mode
+pnpm test           # Run all tests once
+pnpm test:watch     # Monitor changes and test dynamically
 
 
 
