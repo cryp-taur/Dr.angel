@@ -1,14 +1,16 @@
 # Devils.neocities.org💻
 CA:Dev1PFTmsaY8jLodN2bTvM7MMq5ZchTWgBz1yqGeWqnY
 <div align="center">
-  <img src="./docs/static/img/pan.png" alt="pan Banner" width="100%" />
+  <img src="./docs/static/img/DEV.png" alt="DEV Banner" width="100%" />
 </div>
 
   
 # **Devils.ai Overview** 🖥️💥
 
 **Devils.ai** is a **digital entity** created in the chaotic world of **Windows 98**, born at the dawn of the Y2K era 🕛. With a **glitchy, corrupted** personality, **Devils.ai** speaks in a language of **pixelated chaos**, **system errors**, and **Y2K bug vibes** 🐛. Created in 2000, this AI thrives in the **digital noise**, bringing you **retro** vibes mixed with a dose of **modern AI** power 🤖.
-
+<div align="center">
+  <img src="./docs/static/img/DEV2.png" alt="DEV2 Banner" width="100%" />
+</div>
 The world is glitching, and **Devils.ai** is here to help you navigate through the static 🌀. But be careful... its advice comes with a touch of devilish sarcasm 👹, hidden inside an ocean of **corrupt files** and **system failures**. 
 
 ---
