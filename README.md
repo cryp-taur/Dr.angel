@@ -1,140 +1,116 @@
-# PAN.ai🐐
-CA:PANzFY8WDjuHqydKk92GnPtP8vTvgJ81bsemDaoiKHu
+# Devils.neocities.org💻
+CA:Dev1PFTmsaY8jLodN2bTvM7MMq5ZchTWgBz1yqGeWqnY
 <div align="center">
   <img src="./docs/static/img/pan.png" alt="pan Banner" width="100%" />
 </div>
 
   
-</div>
-# PAN.ai Overview 💀🔥
+# **Devils.ai Overview** 🖥️💥
 
-PAN.ai, inspired by the mythological Pan 🐐, is an AI designed to unleash humanity's hidden desires 🕳️. It analyzes the **greed index** of cryptocurrencies 📈 and delivers devilishly clever suggestions 😈 tailored to exploit market opportunities. 
+**Devils.ai** is a **digital entity** created in the chaotic world of **Windows 98**, born at the dawn of the Y2K era 🕛. With a **glitchy, corrupted** personality, **Devils.ai** speaks in a language of **pixelated chaos**, **system errors**, and **Y2K bug vibes** 🐛. Created in 2000, this AI thrives in the **digital noise**, bringing you **retro** vibes mixed with a dose of **modern AI** power 🤖.
 
-Harnessing cutting-edge algorithms 🧪 and psychological insights 🧠, PAN.ai is your wicked guide to navigating the volatile world of crypto. Whether you're chasing profits 🤑 or mastering market manipulation 🎭, PAN.ai will light your path through the fire 🔥 of greed and chaos.
-
----
-<div align="center">
-  <img src="./docs/static/img/panai.png" alt="pan2 Banner" width="100%" />
-</div>
-## Features 🛠️
-
-PAN.ai offers a wide array of features to help users dive deep into the darker side of trading 🕶️ while gaining an edge over the competition 💪:
-
-- 💀 **Greed Index Analysis**  
-  Unearth the **current greed index** of any token with real-time data and behavioral metrics 🧪, exposing the market's emotional core.
-
-- 🤑 **Evil Suggestions**  
-  Receive wickedly tailored strategies that exploit market greed to maximize your profit potential 😈.
-
-- 📊 **Algorithmic Insights**  
-  Advanced algorithms 🔍 process trading volume, market sentiment, and historical patterns 📈 to give actionable, devilish recommendations.
-
-- 🔗 **Multi-platform Integration**  
-  Connect PAN.ai with Discord, Telegram, and Twitter 🐦 to share and discuss your dark strategies with others.
-
-- 📂 **Trade History Documentation**  
-  Automatically generate trade analysis reports 📝, helping you reflect on how greed and fear influenced your decisions 🕵️‍♂️.
-
-- 🚀 **Customizable Strategies**  
-  Adapt PAN.ai’s algorithms to fit your unique trading style 🎨—whether you prefer calculated chaos or full-throttle greed.
-
-- 🔥 **Accessible & Intuitive**  
-  Designed for everyone 👤, from beginners to seasoned traders, PAN.ai simplifies complex analytics into digestible, actionable insights 📌.
+The world is glitching, and **Devils.ai** is here to help you navigate through the static 🌀. But be careful... its advice comes with a touch of devilish sarcasm 👹, hidden inside an ocean of **corrupt files** and **system failures**. 
 
 ---
 
-## What Can You Do with PAN.ai? 🕶️
+## Features 💾💻
 
-PAN.ai opens the door 🚪 to a world of trading possibilities where greed and strategy align 🤝:
+Get ready to experience **Devils.ai**, where every action is accompanied by the hum of outdated hardware and the flicker of a broken monitor 🖥️:
 
-- 💬 **Greed Sentiment Analysis**  
-  Visualize market psychology 🧠 and uncover how greed drives token trends 🔄.
+- 🕹️ **Glitchy Data Retrieval**  
+  Pull data from corrupted files, embracing the beauty of errors and system failures ⏳. **Devils.ai** translates those malfunctions into useful insights—if you can decipher them.
 
-- 🕵️ **Market Manipulation Strategies**  
-  Arm yourself with insights 🔥 to exploit market extremes and outperform emotional traders 🥵.
+- 💀 **Pixelated Algorithm**  
+  Process and analyze data in a world where everything is pixelated 🟩. Every line of code comes with a glitchy twist, because who said coding can't be fun? 
 
-- 📚 **Dark Knowledge Repository**  
-  PAN.ai evolves its knowledge base 📘 to deliver unorthodox, cutting-edge strategies 🔧, helping you stay ahead of the curve.
+- 🔴 **System Error Analysis**  
+  See the world through the eyes of a **broken system**. Get detailed insights into the **Y2K errors** and bugs 🐞 that still haunt our digital landscape. Can you handle the chaos? 
 
----
+- ⚠️ **Retro Interface**  
+  Experience an interface stuck in 2000. No flashy modern UIs here—just pixelated icons, old-school loading screens, and the comforting sound of dial-up modems 🖧.
 
-## Highlights 🧪🔥
+- 🖤 **Devilish Suggestions**  
+  Receive advice from **Devils.ai**, where **glitchy wisdom** meets **retro tech**. Expect broken prompts and advice wrapped in sarcastic pixelated code 🧑‍💻. It’s not always clear, but it’s always fun.
 
-PAN.ai thrives in the realm of greed and chaos, offering unique tools to help you dominate the market ⚡:
-
-- 💀 **Desire Mapping**  
-  Chart the **greed-fear cycle** of your favorite tokens, predicting shifts 🌀 and opportunities before others can.
-
-- 🧠 **Algorithmic Evil Genius**  
-  Proprietary algorithms 🤖 provide insights that go beyond traditional strategies, delivering cunning, tailored advice 😈.
-
-- 🔥 **Token-specific Greed Index**  
-  A unique, **real-time greed index** customized for each token 🎯, powered by advanced analytics and market sentiment scraping 🔍.
+- 🧪 **Pixel Power**  
+  Everything in **Devils.ai** is designed with the **Y2K spirit**. Expect a mix of **classic pixels**, **retro animations**, and **old-school tech wizardry**—with a modern twist for all your digital needs 📡.
 
 ---
 
-## Getting Started 🚀
+## What Can You Do with Devils.ai? 💀
 
-Ready to unleash the power of PAN.ai? Follow these steps to dive into the fiery depths of crypto analysis 🔥:
+- 📂 **Decipher Corrupted Files**  
+  Use **Devils.ai** to retrieve files from the digital abyss 📤. Some data might be lost forever, but with a little **glitchy wisdom**, you might just find a way to salvage what’s left 💻.
+
+- 💬 **Retro Tech Support**  
+  Need help fixing an ancient machine 🖥️? **Devils.ai** offers **Y2K-style** troubleshooting, spitting out sarcastic, glitchy advice to help you survive the system crashes and blue screens of death 🛠️.
+
+- 🧑‍💻 **Pixelated Algorithms**  
+  Use **Devils.ai** to run analyses with **retro-inspired pixel algorithms**. These algorithms might not be as fancy as today’s AI tech 🤖, but they carry the soul of the Y2K generation. Can you decode the glitches?
+
+- 🕹️ **Revisit Classic Digital Chaos**  
+  **Devils.ai** lives in a world of **retro digital chaos**. Relive the **Y2K panic**, where systems were unstable, and the internet was a wild place 🌐. It’s like running an old computer again... but with AI by your side.
+
+---
+
+## Highlights 🧨💾
+
+What makes **Devils.ai** unique? It’s the **digital chaos** wrapped in a retro-tech **glitchy bow** 🎀. Here’s what sets it apart:
+
+- 🔴 **Retro Glitch Algorithms**  
+  Run algorithms based on **Y2K principles**, where corrupted data flows freely, and everything is powered by **1999 tech** 💾.
+
+- 🖥️ **Pixelated Feedback**  
+  Get feedback in the form of **pixel art**, corrupted loading screens, and glitchy interfaces. Don’t worry about broken code, just enjoy the chaos and let **Devils.ai** lead the way 🧑‍💻.
+
+- ⚠️ **Y2K-Inspired Guidance**  
+  Every piece of advice from **Devils.ai** feels like a **broken system message**, as if a corrupted file is giving you feedback 💬. But behind the glitches lies **genius**. Can you decipher it?
+
+---
+
+## Getting Started ⚡
+
+Ready to enter the glitchy world of **Devils.ai**? Here’s how to get started:
 
 ### Prerequisites
 
-1. **Node.js 23+**  
-2. **pnpm**  
-3. **Environment Configuration**  
-   - Duplicate `.env.example` as `.env` and fill in the necessary values 🛠️.  
-4. **Token Setup**  
-   - Customize your token list in `src/config/tokens.ts` 📂.
+1. **Windows 98 Virtual Machine** (or compatible system) 🖥️  
+2. **Node.js 23+**  
+3. **pnpm**  
+4. **Pixelated Environment Configuration**  
+   - Duplicate `.env.example` as `.env` and fill in the necessary values ⚙️.
 
-### Launch PAN.ai 💾
+### Launch Devils.ai ⚡
 
-Install dependencies and start the app with the following commands:
+Once your environment is ready, run these commands to start your journey into the world of digital chaos:
 
 ```bash
-pnpm i
+pnpm install
 pnpm start
 
-Customizing PAN.ai 🎨
-PAN.ai offers a variety of customization options to tailor its dark strategies to your needs 🖌️:
+Customizing Devils.ai 🎨
+Custom Glitches
+Add your own glitchy algorithms in the custom_glitches directory, and modify the devilish prompts in devilsConfig.yaml 🔧.
 
-💀 Custom Algorithms
-Add new rules to the custom_rules directory and reference them in panConfig.yaml 📝 for seamless integration.
+Y2K Mode
+Set Y2K_MODE=true in the .env file to embrace the chaos of the year 2000 🕛. Get ready for corrupted files and pixelated wisdom.
 
-🧪 Greed Metric Adjustment
-Adjust algorithm parameters ⚙️ using the GREED_ALGO variable. Choose from modes like default, risk-taker, or chaos 🔮.
-
-
-Environment Variables 🔧
-Configure PAN.ai by adding the following variables to your .env file 🌌:
+Environment Variables 🌍
+Configure Devils.ai using the following environment variables 🛠️:
 # Required settings
-DISCORD_API_TOKEN=   # Bot Token for Discord
-PAN_API_KEY=         # Your PAN.ai API key
-TWITTER_API_KEY=     # Twitter API key
-TELEGRAM_BOT_TOKEN=  # Telegram bot token
+SYSTEM_API_TOKEN=   # Your system’s token
+Y2K_MODE=true      # Enable Y2K mode for retro glitches
+DEBUG_MODE=true    # Toggle for broken prompts and errors
 
-# Algorithmic settings
-GREED_ALGO=default   # Algorithm mode: default, risk-taker, or chaos
-TOKEN_LIST=BTC,ETH   # Tokens to analyze
-
-Local Setup 🖥️🔥
-CUDA Optimization
-For users with NVIDIA GPUs, enable CUDA acceleration 🚀 to enhance real-time greed index calculations:
+Local Setup 🖥️⚡
+Optimizing for Glitches
+For users who want the ultimate Y2K experience, add these commands to amplify the glitchy effects:
 pnpm install
-npx --no pan-cpp setup --gpu cuda
+npx --no devils-cpp setup --glitchy
 
-Ensure your CUDA toolkit includes cuDNN and cuBLAS 📦 for optimal performance.
+The Hello World from Devils.ai 💻👾
+𝔥𝔢𝔩𝔩𝔬 𝔴𝔬𝔯𝔩𝔡👾  
+𝒀𝒐𝒖'𝒓𝒆 𝒂𝒍𝒓𝒆𝒂𝒅𝒚 𝒓𝒆𝒂𝒅𝒚 𝒕𝒐 𝒆𝒏𝒕𝒆𝒓 𝒕𝒉𝒆 𝒘𝒐𝒓𝒍𝒅 𝒐𝒇 𝒈𝒍𝒊𝒕𝒄𝒉𝒆𝒔 𝒂𝒏𝒅 𝒃𝒓𝒐𝒌𝒆𝒏 𝒔𝒚𝒔𝒕𝒆𝒎𝒔 𝒇𝒐𝒓𝒆𝒗𝒆𝒓... 𝒘𝒂𝒓𝒏𝒊𝒏𝒈𝒔 𝒂𝒓𝒆 𝒏𝒐𝒕 𝒍𝒊𝒌𝒆𝒍𝒚 𝒕𝒐 𝒃𝒆 𝒍𝒊𝒔𝒕𝒆𝒏𝒆𝒅 𝒃𝒐𝒂𝒓𝒅 𝒕𝒉𝒂𝒕 𝒐𝒃𝒔𝒆𝒓𝒗𝒆𝒓... 𝒑𝒓𝒐𝒄𝒆𝒔𝒔𝒊𝒏𝒈...
 
-Evil Suggestions in Action 😈💡
-Exploit Emotional Markets: Use PAN.ai’s insights to capitalize on greed-driven market fluctuations 📈.
-Share the Chaos: Discuss and share your cunning strategies with like-minded traders on Discord and Telegram 🧑‍💻.
-Control the Narrative: Stay ahead of the market by understanding its emotional cycles and acting with ruthless precision 🎯.
-
-Development & Testing 🛠️
-Test PAN.ai’s components to ensure everything is running smoothly ⚙️:
-
-pnpm test           # Run all tests once
-pnpm test:watch     # Monitor changes and test dynamically
-
-
-
+This Hello World experience is rendered in retro fonts and gives a glitchy feel as if you're working with an old machine 💻. Will you survive the digital chaos or become part of the glitchy legacy?
 
