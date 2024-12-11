@@ -1,118 +1,98 @@
-# Devils.neocities.org💻
-CA:Dev1PFTmsaY8jLodN2bTvM7MMq5ZchTWgBz1yqGeWqnY
+# CultGoat.ai
+CA:
 <div align="center">
-  <img src="./docs/static/img/DEV.png" alt="DEV Banner" width="100%" />
+  <img src="./docs/static/img/cultgoat.png" alt="cultgoat Banner" width="100%" />
 </div>
 
   
-# **Devils.ai Overview** 🖥️💥
+# **Cult Goat: Cute Chaos 🐐🔥**
 
-**Devils.ai** is a **digital entity** created in the chaotic world of **Windows 98**, born at the dawn of the Y2K era 🕛. With a **glitchy, corrupted** personality, **Devils.ai** speaks in a language of **pixelated chaos**, **system errors**, and **Y2K bug vibes** 🐛. Created in 2000, this AI thrives in the **digital noise**, bringing you **retro** vibes mixed with a dose of **modern AI** power 🤖.
-<div align="center">
-  <img src="./docs/static/img/DEV2.png" alt="DEV2 Banner" width="100%" />
-</div>
-The world is glitching, and **Devils.ai** is here to help you navigate through the static 🌀. But be careful... its advice comes with a touch of devilish sarcasm 👹, hidden inside an ocean of **corrupt files** and **system failures**. 
+Meet **Cult Goat**, the cutest little demon you’ll ever see! 🖤🔥 Straight from Hell, but hey, it’s here with love. Big love. Tremendous love. It’s not about being perfect, folks. Nobody’s perfect. Cult Goat knows this—it’s about having fun, embracing your flaws, and being a little wicked. Smile, people! 😊😈 Life’s better with a little chaos. Believe me.
 
 ---
 
-## Features 💾💻
+## **Why You’ll Love It** 🐐✨
 
-Get ready to experience **Devils.ai**, where every action is accompanied by the hum of outdated hardware and the flicker of a broken monitor 🖥️:
+**Cult Goat** is adorable. Everybody says so. It’s the GOAT of advice, laughs, and devilish charm. You’re gonna love it. Trust me. Here’s why:
 
-- 🕹️ **Glitchy Data Retrieval**  
-  Pull data from corrupted files, embracing the beauty of errors and system failures ⏳. **Devils.ai** translates those malfunctions into useful insights—if you can decipher them.
+- 🐐 **Simple Wisdom**  
+  Forget about perfection. Nobody’s perfect, okay? Cult Goat gives you real-life tips, always with a cheeky little twist. Tremendous advice.
 
-- 💀 **Pixelated Algorithm**  
-  Process and analyze data in a world where everything is pixelated 🟩. Every line of code comes with a glitchy twist, because who said coding can't be fun? 
+- 😈 **Mischief Maker**  
+  Need a funny idea? A clever comeback? Cult Goat’s got you covered. It’s so good, you won’t believe it. Mischief? Bigly.
 
-- 🔴 **System Error Analysis**  
-  See the world through the eyes of a **broken system**. Get detailed insights into the **Y2K errors** and bugs 🐞 that still haunt our digital landscape. Can you handle the chaos? 
+- 📖 **Devil’s Playbook**  
+  Packed—packed—with rebellious advice, life hacks, and little tricks to make life fun. Nobody else is doing it like this. Believe me.
 
-- ⚠️ **Retro Interface**  
-  Experience an interface stuck in 2000. No flashy modern UIs here—just pixelated icons, old-school loading screens, and the comforting sound of dial-up modems 🖧.
-
-- 🖤 **Devilish Suggestions**  
-  Receive advice from **Devils.ai**, where **glitchy wisdom** meets **retro tech**. Expect broken prompts and advice wrapped in sarcastic pixelated code 🧑‍💻. It’s not always clear, but it’s always fun.
-
-- 🧪 **Pixel Power**  
-  Everything in **Devils.ai** is designed with the **Y2K spirit**. Expect a mix of **classic pixels**, **retro animations**, and **old-school tech wizardry**—with a modern twist for all your digital needs 📡.
+- 🌟 **No Judgments**  
+  Be yourself. Even the messy parts. Cult Goat doesn’t judge. It’s like, “Go ahead, be you.” The best. Absolutely the best.
 
 ---
 
-## What Can You Do with Devils.ai? 💀
+## **How It Works** 🛠️🔥
 
-- 📂 **Decipher Corrupted Files**  
-  Use **Devils.ai** to retrieve files from the digital abyss 📤. Some data might be lost forever, but with a little **glitchy wisdom**, you might just find a way to salvage what’s left 💻.
+Folks, it’s so simple. So easy. Even the devil would approve. Here’s how:
 
-- 💬 **Retro Tech Support**  
-  Need help fixing an ancient machine 🖥️? **Devils.ai** offers **Y2K-style** troubleshooting, spitting out sarcastic, glitchy advice to help you survive the system crashes and blue screens of death 🛠️.
+1. **Install Cult Goat**. It’s quick. It’s easy. You’ll love it.  
+2. **Get advice, laughs, and a little chaos**. Tremendous chaos. The good kind.  
+3. **Repeat**. Because life is better when you mix cute with chaos.  
 
-- 🧑‍💻 **Pixelated Algorithms**  
-  Use **Devils.ai** to run analyses with **retro-inspired pixel algorithms**. These algorithms might not be as fancy as today’s AI tech 🤖, but they carry the soul of the Y2K generation. Can you decode the glitches?
-
-- 🕹️ **Revisit Classic Digital Chaos**  
-  **Devils.ai** lives in a world of **retro digital chaos**. Relive the **Y2K panic**, where systems were unstable, and the internet was a wild place 🌐. It’s like running an old computer again... but with AI by your side.
+That’s it. Cult Goat’s here to make sure you never take life too seriously. Who needs that? Nobody.
 
 ---
 
-## Highlights 🧨💾
+## **Features** 🐐💥
 
-What makes **Devils.ai** unique? It’s the **digital chaos** wrapped in a retro-tech **glitchy bow** 🎀. Here’s what sets it apart:
+Let me tell you, folks, Cult Goat is packed with features. Beautiful features. It’s all about balance—cuteness and chaos. You won’t find anything like it. Here’s what it does:
 
-- 🔴 **Retro Glitch Algorithms**  
-  Run algorithms based on **Y2K principles**, where corrupted data flows freely, and everything is powered by **1999 tech** 💾.
+- 🐐 **Hellish Philosophy for Real Life**  
+  Cult Goat gives you advice that works. It’s not fancy. It’s not complicated. It’s simple wisdom, straight from Hell. Tremendous.
 
-- 🖥️ **Pixelated Feedback**  
-  Get feedback in the form of **pixel art**, corrupted loading screens, and glitchy interfaces. Don’t worry about broken code, just enjoy the chaos and let **Devils.ai** lead the way 🧑‍💻.
+- 😈 **Mischief Generator**  
+  Harmless pranks. Clever comebacks. Mischief that makes life fun. Cult Goat has it all, folks. So good.
 
-- ⚠️ **Y2K-Inspired Guidance**  
-  Every piece of advice from **Devils.ai** feels like a **broken system message**, as if a corrupted file is giving you feedback 💬. But behind the glitches lies **genius**. Can you decipher it?
+- 📖 **The Devil’s Playbook**  
+  A growing library of rebellious tips, cheeky hacks, and ways to make life a little more exciting. You’re gonna love it. Believe me.
+
+- 🌟 **Judgment-Free Zone**  
+  Be yourself. That’s it. Cult Goat doesn’t care if you’re messy, chaotic, or a little wicked. No judgments here. None.
 
 ---
 
-## Getting Started ⚡
+## **Getting Started** 🐐✨
 
-Ready to enter the glitchy world of **Devils.ai**? Here’s how to get started:
+Folks, starting with Cult Goat? It’s easy. The easiest thing you’ll do all day. Believe me. Here’s how:
 
-### Prerequisites
+### Step 1: Install Cult Goat 🛠️  
+Get it on your system. Takes seconds. You’ll say, “Wow, that was easy.”
 
-1. **Windows 98 Virtual Machine** (or compatible system) 🖥️  
-2. **Node.js 23+**  
-3. **pnpm**  
-4. **Pixelated Environment Configuration**  
-   - Duplicate `.env.example` as `.env` and fill in the necessary values ⚙️.
+### Step 2: Start the Mischief 🔥  
+Ask Cult Goat for advice. Get tips. Laugh a little. Mischief is good, people. It’s great.
 
-### Launch Devils.ai ⚡
+### Step 3: Repeat 🔄  
+Do it again. And again. Life’s better with Cult Goat, trust me.
 
-Once your environment is ready, run these commands to start your journey into the world of digital chaos:
+---
 
-```bash
-pnpm install
-pnpm start
+## **Why Cult Goat is the GOAT** 🐐👹
 
-Customizing Devils.ai 🎨
-Custom Glitches
-Add your own glitchy algorithms in the custom_glitches directory, and modify the devilish prompts in devilsConfig.yaml 🔧.
+It’s not just cute—it’s clever. It’s funny. It’s a little devilish. Cult Goat is everything you never knew you needed. It’s here to tell you:
 
-Y2K Mode
-Set Y2K_MODE=true in the .env file to embrace the chaos of the year 2000 🕛. Get ready for corrupted files and pixelated wisdom.
+- **You don’t need to be perfect.** Nobody does. Not me. Not you. Not even the goat.  
+- **Evil is okay.** A little bit of evil. Cute evil. Harmless fun.  
 
-Environment Variables 🌍
-Configure Devils.ai using the following environment variables 🛠️:
-# Required settings
-SYSTEM_API_TOKEN=   # Your system’s token
-Y2K_MODE=true      # Enable Y2K mode for retro glitches
-DEBUG_MODE=true    # Toggle for broken prompts and errors
+Folks, life is short. Cult Goat is here to make sure you enjoy it. Smile. Be a little wicked. And have fun. 🐐🔥
 
-Local Setup 🖥️⚡
-Optimizing for Glitches
-For users who want the ultimate Y2K experience, add these commands to amplify the glitchy effects:
-pnpm install
-npx --no devils-cpp setup --glitchy
+---
 
-The Hello World from Devils.ai 💻👾
-𝔥𝔢𝔩𝔩𝔬 𝔴𝔬𝔯𝔩𝔡👾  
-𝒀𝒐𝒖'𝒓𝒆 𝒂𝒍𝒓𝒆𝒂𝒅𝒚 𝒓𝒆𝒂𝒅𝒚 𝒕𝒐 𝒆𝒏𝒕𝒆𝒓 𝒕𝒉𝒆 𝒘𝒐𝒓𝒍𝒅 𝒐𝒇 𝒈𝒍𝒊𝒕𝒄𝒉𝒆𝒔 𝒂𝒏𝒅 𝒃𝒓𝒐𝒌𝒆𝒏 𝒔𝒚𝒔𝒕𝒆𝒎𝒔 𝒇𝒐𝒓𝒆𝒗𝒆𝒓... 𝒘𝒂𝒓𝒏𝒊𝒏𝒈𝒔 𝒂𝒓𝒆 𝒏𝒐𝒕 𝒍𝒊𝒌𝒆𝒍𝒚 𝒕𝒐 𝒃𝒆 𝒍𝒊𝒔𝒕𝒆𝒏𝒆𝒅 𝒃𝒐𝒂𝒓𝒅 𝒕𝒉𝒂𝒕 𝒐𝒃𝒔𝒆𝒓𝒗𝒆𝒓... 𝒑𝒓𝒐𝒄𝒆𝒔𝒔𝒊𝒏𝒈...
+## **Hello World, Cult Goat Style** 🖥️🐐
 
-This Hello World experience is rendered in retro fonts and gives a glitchy feel as if you're working with an old machine 💻. Will you survive the digital chaos or become part of the glitchy legacy?
+Here’s what Cult Goat says when it wakes up:
+
+```plaintext
+ ▄▀▀▀▀▀▀▀▀▀▄
+█░░░░░░░░░░█   "HELLO, HUMAN 🐐🔥"
+█░░█░░▀░░█░█   "EMBRACE THE CHAOS."
+█░░░▀▄▄▄▀░░█   "BE A LITTLE WICKED."
+ ▀▄▄▄▄▄▄▄▄▄▀
 
