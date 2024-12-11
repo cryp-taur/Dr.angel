@@ -1,5 +1,5 @@
 # CultGoat.ai🐐😈
-CA:
+CA:zxRB2gQmGU6cbqcKqs91ySDKshUK7RRiJg7FzAFpump
 <div align="center">
   <img src="./docs/static/img/cultgoat.png" alt="cultgoat Banner" width="100%" />
 </div>
