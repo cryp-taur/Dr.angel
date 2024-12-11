@@ -1,4 +1,4 @@
-# CultGoat.ai
+# CultGoat.ai🐐😈
 CA:
 <div align="center">
   <img src="./docs/static/img/cultgoat.png" alt="cultgoat Banner" width="100%" />
