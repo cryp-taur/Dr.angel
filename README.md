@@ -1,5 +1,5 @@
 # Aoi.ai💻
-CA:
+CA:AoieZepVq4JbyHLcNn743AZk8HcGwfN4vC3epEfs6R8L
 <div align="center">
   <img src="./docs/static/img/Aoi.jpg" alt="Aoi Banner" width="100%" />
 </div>
